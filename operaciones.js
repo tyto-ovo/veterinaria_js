@@ -15,7 +15,7 @@ const registrar = (name, age, type, colour, problem) => {
 };
 
 const leer = () => {
-  const lectura = JSON.parse(fs.readFileSync("citas.json", "itf-8"));
+  const lectura = JSON.parse(fs.readFileSync("citas.json", "utf-8"));
   console.log(lectura);
 };
 

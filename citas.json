@@ -12,5 +12,12 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "distemper"
+  },
+  {
+    "Nombre": "Benito",
+    "Edad": "2 años",
+    "Tipo": "perro",
+    "Color": "blanco",
+    "Enfermedad": "vomitos"
   }
 ]
